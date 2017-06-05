@@ -1,0 +1,12 @@
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\Common.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\Common.pdb
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\DataAccess\obj\Debug\DataAccess.pdb

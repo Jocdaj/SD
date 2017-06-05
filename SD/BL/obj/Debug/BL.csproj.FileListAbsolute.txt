@@ -1,0 +1,5 @@
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\BL\bin\Debug\BL.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\BL\bin\Debug\BL.pdb
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\BL\obj\Debug\BL.dll
+C:\Users\jocelyn\Documents\Visual Studio 2015\Projects\MITAssignment - Copy\BL\obj\Debug\BL.pdb
